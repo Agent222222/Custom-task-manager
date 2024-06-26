@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+E:\Slavery\ONLY_FANS\2curs\OS-lab\lab-3\Project1\MyForm.h(606,10): warning C4101: 'hProcess': unreferenced local variable
+E:\Slavery\ONLY_FANS\2curs\OS-lab\lab-3\Project1\MyForm.h(693,1): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+E:\Slavery\ONLY_FANS\2curs\OS-lab\lab-3\Project1\MyForm.h(709,10): warning C4101: 'hThread': unreferenced local variable
+E:\Slavery\ONLY_FANS\2curs\OS-lab\lab-3\Project1\MyForm.h(735,19): warning C4101: 'processInfoPair': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> E:\Slavery\ONLY_FANS\2curs\OS-lab\lab-3\Project1\x64\Debug\Project1.exe

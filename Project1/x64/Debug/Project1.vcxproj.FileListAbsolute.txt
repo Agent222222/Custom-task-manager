@@ -1,0 +1,15 @@
+E:\Навчання\Мої файли\2-курс\ОС-лаб\lab-3\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+E:\Навчання\Мої файли\2-курс\ОС-лаб\lab-3\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+E:\Навчання\Мої файли\2-курс\ОС-лаб\lab-3\Project1\x64\Debug\Project1.MyForm.resources
+E:\Навчання\Мої файли\2-курс\ОС-лаб\lab-3\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+E:\Навчання\Мої файли\2-курс\ОС-лаб\lab-3\Project1\x64\Debug\Project1.exe
+E:\Slavery\ONLY_FANS\2curs\ОС-лаб\lab-3\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+E:\Slavery\ONLY_FANS\2curs\ОС-лаб\lab-3\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+E:\Slavery\ONLY_FANS\2curs\ОС-лаб\lab-3\Project1\x64\Debug\Project1.MyForm.resources
+E:\Slavery\ONLY_FANS\2curs\ОС-лаб\lab-3\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+E:\Slavery\ONLY_FANS\2curs\ОС-лаб\lab-3\Project1\x64\Debug\Project1.exe
+E:\Slavery\ONLY_FANS\2curs\OS-lab\lab-3\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+E:\Slavery\ONLY_FANS\2curs\OS-lab\lab-3\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+E:\Slavery\ONLY_FANS\2curs\OS-lab\lab-3\Project1\x64\Debug\Project1.MyForm.resources
+E:\Slavery\ONLY_FANS\2curs\OS-lab\lab-3\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+E:\Slavery\ONLY_FANS\2curs\OS-lab\lab-3\Project1\x64\Debug\Project1.exe
